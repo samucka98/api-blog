@@ -4,7 +4,7 @@ Este foi um projeto que desenvolvi uma API Rest de um blog durante o treinamento
 
 ---
 
-#### Requisitos para usar a API*
+#### Requisitos do sistema
 * [Docker instalado em sua maquina](https://balta.io/blog/docker-instalacao-configuracao-e-primeiros-passos)
 * [SQL Server no Docker](https://balta.io/blog/sql-server-docker)
 * [.NET na versão 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
